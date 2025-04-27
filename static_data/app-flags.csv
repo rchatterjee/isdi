@@ -1,4 +1,608 @@
 appId,store,flag,title
+com.apspy.app,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.fone,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.guest,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.ispyoo,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.ispyoo.traceyou,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.mxspy,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.spyzee,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.systemservice,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.thetruth,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.ttsapp.catchcheating,offstore,spyware,"TheTruthSpy|Copy9, InoSPy, ExactSpy, FoneTracker, GuestSpy, MxSpy, PhoneSpying, PhoneTracker, SpyZee, TheTruthSpy, TheSpyApp, iSpyoo, XySpy"
+com.android.innovaspy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.example.hellospy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.googlesettings.setting,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.hellospy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.hellospy.system,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.maxxspy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.maxxspy.system,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.mobiispy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.mobiispy.system,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.mrblue.setting,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.mrbluetooth.setting,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.mrtred.setred,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.prophoto.editor,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.topspy,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.topspy.system,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.virsys.tracker,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.wifiset.service,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.wifisettings.service,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+googlesettings.setting,offstore,spyware,"HelloSpy|1TopSpy, HelloSPy, MaxxSpy, MobiiSpy, SpyHide"
+com.sa.app,offstore,spyware,"SpyAdvice|SpyAdvice, FreeSpyPhone"
+com.brot.storage.work,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+com.cycle.start.mess,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+com.thecybernanny.andapp,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+net.androidcoreapp.androidbackup,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+net.delphiboardlayer.androidcoreapp,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+net.reptilicus.clientapp,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+net.system_updater_abs341,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+net.vkurhandler,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+se.vkur.clientapp,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+yc.sysupd.client,offstore,spyware,"Reptilicus|Reptilicus, CyberNanny, Vkur"
+com.retina.phonesheriff,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.retina21.ms41,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.retina22.ms6,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl22.retinaspy,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.retinasoft.ephonetracker,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl15.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl16.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl17.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl18.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl19.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl20.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.rspl21.nanny.android,offstore,spyware,"PhoneSheriff|PhoneSheriff, MobileNanny, PeekTab, RetinaX, RetinaSpy"
+com.ownspy.android,offstore,spyware,"OwnSpy|OwnSpy, SaferSpy, WebDetetive"
+org.system.kernel,offstore,spyware,"OwnSpy|OwnSpy, SaferSpy, WebDetetive"
+com.aiyi.admin,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.cocospy,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.cocospy,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.cocospy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.fonemonitor,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.spyine,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.spyzie,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.duiyun.spyic,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.minspy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.minspy.v3,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.cocospy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.fonemonitor,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.fonemonitor.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.minspy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.neatspy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.safespy.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.safespy.v3,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.spyic.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.spyic.v3,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.spyier.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.spyine.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.spyzie.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.dy.spyzie.v4,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.sc.teensafe.v2,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.spyic,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.wb.production,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.ws.sc,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.ws.scli,offstore,spyware,"Cocospy|Cocospy, FoneMonitor, MinSpy, NeatSpy, SafeSpy, Spyic, Spyine, Spyzie, TeenSafe"
+com.mit.viptrackpro,offstore,spyware,VIPTrack|VIPTrack
+com.mit.networkadapter,offstore,spyware,VIPTrack|VIPTrack
+com.tag.viptrack,offstore,spyware,VIPTrack|VIPTrack
+app.EasyLogger,offstore,spyware,EasyLogger|EasyLogger
+app.Easylogger,offstore,spyware,EasyLogger|EasyLogger
+app.Elogger,offstore,spyware,EasyLogger|EasyLogger
+app.childsafetytracker,offstore,spyware,EasyLogger|EasyLogger
+app.seniorsafety,offstore,spyware,EasyLogger|EasyLogger
+com.android.core.monitor.debug,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.monitor.null,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.monitornull,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.monitor,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnt,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnta,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntah,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntb,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntd,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnte,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntf,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntg,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnth,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnti,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntj,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntk,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntl,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntm,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntn,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnto,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntp,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntq,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntr,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnts,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntt,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntu,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntv,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntw,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntx,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mnty,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+com.android.core.mntz,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+cmf0.c3b5bm90zq.patch,offstore,spyware,"Hoverwatch|Hoverwatch, SpyBubble, Refog"
+pl.lidwin.letmespy,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.letmespy2,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.letmespy3,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.letmespy4,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.letmespy5,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.lms,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.remote,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.remote1,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.lidwin.remote2,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+pl.radeal.lms4,offstore,spyware,"LetMeSpy|LetMeSpy, RemoteCommand, RemCmd"
+com.android.core.mngi,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngj,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngk,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngl,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngn,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngo,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngp,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngq,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngr,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngs,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngt,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngu,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngv,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngw,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngx,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngy,offstore,spyware,Snoopza|Snoopza
+com.android.core.mngz,offstore,spyware,Snoopza|Snoopza
+com.app.audiorec,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.app.call_rec_hidden,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.app.keylogger,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.app.spy_call_recorder,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.app.recorder,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.app.videorec,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.apps.anti_theft,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.apps.rct.CellTrackerActivity,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.dev4playapps.whatsdeleted,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.gcm_call_sms_tracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.gcm_call_sms_tracker.updated,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.gcm_call_tracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.gcm_celltracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.local_cell_tracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.local_cell_tracker_updated,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.soh,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.trackerapps.whatsaptracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.trackmyphone_pro,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.trackmyphones.livefamilytracker,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.trackmyphones.recoverphoneusingchatmessages,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.trackmyphones.tmpusingchatmessages,offstore,spyware,TrackMyPhones|TrackMyPhones
+com.vvt.android.syncmanager,offstore,spyware,FlexiSpy|FlexiSpy
+com.telephony.android,offstore,spyware,FlexiSpy|FlexiSpy
+com.fp.backup,offstore,spyware,FlexiSpy|FlexiSpy
+com.android.phone.dialer,offstore,spyware,FlexiSpy|FlexiSpy
+com.lsdroid.cerberuss,offstore,spyware,Cerberus|Cerberus
+com.lsdroid.cerberus.persona,offstore,spyware,Cerberus|Cerberus
+com.lsdroid.cerberus.persona2,offstore,spyware,Cerberus|Cerberus
+com.lsdroid.cerberus.kids,offstore,spyware,Cerberus|Cerberus
+com.lsdroid.cerberus.client,offstore,spyware,Cerberus|Cerberus
+com.lsdroid.cerberus,offstore,spyware,Cerberus|Cerberus
+com.surebrec,offstore,spyware,Cerberus|Cerberus
+com.ssurebrec,offstore,spyware,Cerberus|Cerberus
+android.helper.system,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+android.sys.process,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+com.android.keyboardhelper,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+com.mspy.lite,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+core.framework,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+com.eyezy.android,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+core.update.framework,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+med.mspy.mspy,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+system.framework,offstore,spyware,"mSpy|FakeSys, KidSecured, Phonsee, SecureChildren, celSpy, eyeZy, mSpy, mSpyOnline"
+com.app.com.app.com.app.aplintal,offstore,spyware,MeuSpy|MeuSpy
+com.app.insapp2,offstore,spyware,MeuSpy|MeuSpy
+com.meuspy,offstore,spyware,MeuSpy|MeuSpy
+br.com.cloud.aplicativo,offstore,spyware,MeuSpy|MeuSpy
+br.com.cloud.backup,offstore,spyware,MeuSpy|MeuSpy
+br.com.daggers.gameap,offstore,spyware,MeuSpy|MeuSpy
+br.com.daggers.toshtec,offstore,spyware,MeuSpy|MeuSpy
+br.com.phonecell.cloud1,offstore,spyware,MeuSpy|MeuSpy
+br.com.phonecell.go5ge,offstore,spyware,MeuSpy|MeuSpy
+br.com.phonecell.maps,offstore,spyware,MeuSpy|MeuSpy
+br.com.phonecell.radio,offstore,spyware,MeuSpy|MeuSpy
+br.com.phonecell.services,offstore,spyware,MeuSpy|MeuSpy
+br.com.sistema.aplicativo,offstore,spyware,MeuSpy|MeuSpy
+br.com.monsthers.gameap,offstore,spyware,MeuSpy|MeuSpy
+in.servidor.service,offstore,spyware,MeuSpy|MeuSpy
+br.com.galaxys.gameap,offstore,spyware,MeuSpy|MeuSpy
+br.com.gamelevel.playstart,offstore,spyware,MeuSpy|MeuSpy
+br.com.gamelevel.cloudv3,offstore,spyware,MeuSpy|MeuSpy
+com.tutorial.instalao,offstore,spyware,MeuSpy|MeuSpy
+com.aisistem.instalao,offstore,spyware,MeuSpy|MeuSpy
+br.com.appfornecedor.legal,offstore,spyware,MeuSpy|MeuSpy
+com.atracker.app,offstore,spyware,"AppSpy|AppSpy, MobileFindFree, FreeSpy"
+com.agpstracker.app,offstore,spyware,"AppSpy|AppSpy, MobileFindFree, FreeSpy"
+com.aphonetracker.app,offstore,spyware,"AppSpy|AppSpy, MobileFindFree, FreeSpy"
+com.afreesmstracker.app,offstore,spyware,"AppSpy|AppSpy, MobileFindFree, FreeSpy"
+com.mobilefindfree,offstore,spyware,"AppSpy|AppSpy, MobileFindFree, FreeSpy"
+a.tck.lvmchi,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.androdid.inteernet.aa21111227,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.jyotin.ct,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.lrvciyti.unrxnfig,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.m.service.control,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mob.service.control,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mobile.gps,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mobile.loc,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mobiletracker,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mobiletrackerfree.secondapp,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mobiletrackerfree.www,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mtf.d,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.netowrk.service,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.services.phone,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+g.google.llc,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.mob.control,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.mob.service2020,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.phone.control2020,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.protect.children,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.protect.parental,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.secu.children,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+m.security.parental,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mob.protect.children,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mob.service.parental2020,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.controlparental2020,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.monitor.child2021,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.monitor.child2022,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.monitor.child2023,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.monitor.child2034,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.parental2021,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.protect.children,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+mobile.protect.children2020,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+security.mobile.parental,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+service.download.app,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+tracker.mob.gps,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+yogaworkouts.dailyyoga.yogafitness,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.get.mtf,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.mtf.download,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.protect.download,offstore,spyware,"MobileTrackerFree|MobileTrackerFree, MonitorLoverman, MTrack, CellTracker, TrackMobil"
+com.android.internet.a20200817,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.android.internet.a20210916,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.android.internet.a20220729,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.android.internet.a20220829,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.android.internet.a20220914,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.sec.android.internet.im.service.im20190118,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.sec.android.internet.im.service.im20190419,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.sec.android.internet.im.service.im20210815,offstore,spyware,iKeyMonitor|iKeyMonitor
+com.panspy.android,offstore,spyware,"PanSpy|PanSpy, SurveilStar"
+com.androidlost,offstore,spyware,AndroidLost|AndroidLost
+com.androidlost.smshandler,offstore,spyware,AndroidLost|AndroidLost
+com.metasploit.stage,offstore,spyware,"Metasploit|Metasploit, ForeverSpy"
+net.spy24.wifi,offstore,spyware,Spy24|Spy24
+com.example.openanotherapp,offstore,spyware,Spy24|Spy24
+ir.spy24.updater,offstore,spyware,Spy24|Spy24
+ir.spy24.wifi,offstore,spyware,Spy24|Spy24
+app.spy24.systemwifi,offstore,spyware,Spy24|Spy24
+app.spy24.spy24installer,offstore,spyware,Spy24|Spy24
+wosc.cwf,offstore,spyware,CatWatchful|CatWatchful
+wosc.cwf2,offstore,spyware,CatWatchful|CatWatchful
+com.example.wosc.androidclient,offstore,spyware,CatWatchful|CatWatchful
+org.secure.smsgps,offstore,spyware,"HighsterMobile|AutoForward, DDI, DDIUtilities, EasySpy, Highster, HighsterMobile, HighsterSpy, PhoneSpector, SafeGuarde, SurePoint, TurboSpy"
+com.autoforward.monitor,offstore,spyware,"HighsterMobile|AutoForward, DDI, DDIUtilities, EasySpy, Highster, HighsterMobile, HighsterSpy, PhoneSpector, SafeGuarde, SurePoint, TurboSpy"
+com.phonespector.app,offstore,spyware,"HighsterMobile|AutoForward, DDI, DDIUtilities, EasySpy, Highster, HighsterMobile, HighsterSpy, PhoneSpector, SafeGuarde, SurePoint, TurboSpy"
+com.ddiutilities.monitor,offstore,spyware,"HighsterMobile|AutoForward, DDI, DDIUtilities, EasySpy, Highster, HighsterMobile, HighsterSpy, PhoneSpector, SafeGuarde, SurePoint, TurboSpy"
+com.imonitor.ainfo,offstore,spyware,iMonitorSpy|iMonitorSpy
+inc.imonitor,offstore,spyware,iMonitorSpy|iMonitorSpy
+org.poleward.burghs.hydrotherapy.homonymously,offstore,spyware,"MobileTool|MobileTool, MobTool, Jopsik"
+org.urates.amirates.suffocate.chiliast,offstore,spyware,"MobileTool|MobileTool, MobTool, Jopsik"
+org.connecting.updived.hygeist.interplays,offstore,spyware,"MobileTool|MobileTool, MobTool, Jopsik"
+com.runaki.synclogs,offstore,spyware,ShadowSpy|ShadowSpy
+com.client.requestlogs,offstore,spyware,ShadowSpy|ShadowSpy
+com.shadow.client.android,offstore,spyware,ShadowSpy|ShadowSpy
+com.cldprotect,offstore,spyware,SpyHuman|SpyHuman
+m.mobile.control,offstore,spyware,SpyHuman|SpyHuman
+com.saxfamqvxj,offstore,spyware,SpyHuman|SpyHuman
+com.safesecureservice,offstore,spyware,SpyHuman|SpyHuman
+com.myappspqwddeexo,offstore,spyware,SpyHuman|SpyHuman
+com.yurpdpvxnybmlgh,offstore,spyware,SpyHuman|SpyHuman
+com.spyhumanrev,offstore,spyware,SpyHuman|SpyHuman
+com.tuner.funnelwebview,offstore,spyware,uMobix|uMobix
+com.system.user,offstore,spyware,uMobix|uMobix
+com.play.services,offstore,spyware,uMobix|uMobix
+com.ant.spymie.keylogger,offstore,spyware,Spymie|Spymie
+com.android.services,offstore,spyware,"TheOneSpy|TheOneSpy, OgyMogy"
+com.android.omg,offstore,spyware,"TheOneSpy|TheOneSpy, OgyMogy"
+com.kids.pro,offstore,spyware,"ClevGuard|ClevGuard, KidsGuard"
+com.kids.whatsapp,offstore,spyware,"ClevGuard|ClevGuard, KidsGuard"
+com.spappm_mondow.alarm,offstore,spyware,"EasyPhoneTrack|EasyPhoneTrack, Ppapp"
+com.monspap.alarm,offstore,spyware,"EasyPhoneTrack|EasyPhoneTrack, Ppapp"
+com.pt.bark,offstore,spyware,bark|bark
+com.sl360,offstore,spyware,SpyLive360|SpyLive360
+com.itqredn8dzrl,offstore,spyware,SpyLive360|SpyLive360
+com.wifi0,offstore,spyware,SpyLive360|SpyLive360
+com.w0f0,offstore,spyware,SpyLive360|SpyLive360
+com.w1f1,offstore,spyware,SpyLive360|SpyLive360
+com.system.task,offstore,spyware,"XNSpy|XNSpy, ZTI, SpyXiz4, SpyXiz4Me, TrackMyPhone"
+com.map.system,offstore,spyware,"XNSpy|XNSpy, ZTI, SpyXiz4, SpyXiz4Me, TrackMyPhone"
+com.xnspy.dashboard,offstore,spyware,"XNSpy|XNSpy, ZTI, SpyXiz4, SpyXiz4Me, TrackMyPhone"
+com.psac.a.processservice,offstore,spyware,MobiSpy|MobiSpy
+ns.antapp.module,offstore,spyware,NeoSpy|NeoSpy
+com.nsmon.guard,offstore,spyware,NeoSpy|NeoSpy
+city.russ.alltrackercorp,offstore,spyware,"AllTracker|AllTracker, Russcity"
+city.russ.alltrackerfamily,offstore,spyware,"AllTracker|AllTracker, Russcity"
+city.russ.alltrackerinstaller,offstore,spyware,"AllTracker|AllTracker, Russcity"
+org.alltracker.security,offstore,spyware,"AllTracker|AllTracker, Russcity"
+com.spapptrakapp.alarm,offstore,spyware,SpyPhoneApp|SpyPhoneApp
+com.spatrakappp.alarm,offstore,spyware,SpyPhoneApp|SpyPhoneApp
+com.ibm.fb,offstore,spyware,"AndroidMonitor|AndroidMonitor, UltimatePhoneSpy"
+tech.logsettings,offstore,spyware,TalkLog|TalkLog
+t.tools.app,offstore,spyware,TalkLog|TalkLog
+technic.settings,offstore,spyware,TalkLog|TalkLog
+iqual.calculadora.pro,offstore,spyware,SpyMasterPro|SpyMasterPro
+com.semantic.childcontrol,offstore,spyware,SpyMasterPro|SpyMasterPro
+com.hp.vd,offstore,spyware,FreeAndroidSpy|FreeAndroidSpy
+com.hp.vc,offstore,spyware,FreeAndroidSpy|FreeAndroidSpy
+com.googleplay.settings,offstore,spyware,NetSpy|NetSpy
+com.bettertomorrowapps.spyyourlovefree,offstore,spyware,CouplerTracker|CouplerTracker
+com.bytepioneers.coupletracker,offstore,spyware,CouplerTracker|CouplerTracker
+com.mobile.loki,offstore,spyware,GPSTrackerLoki|GPSTrackerLoki
+com.mobile.asgard,offstore,spyware,GPSTrackerLoki|GPSTrackerLoki
+com.spyapp247.system,offstore,spyware,SpyApp247|SpyApp247
+com.service.mug,offstore,spyware,SpyMug|SpyMug
+com.wwtspy,offstore,spyware,WtSpy|WtSpy
+com.wtspy.apps,offstore,spyware,WtSpy|WtSpy
+com.xno.systemservice,offstore,spyware,Xnore|Xnore
+com.kfhdha.fkjfgjdi,offstore,spyware,"EspiaoAndroid|EspiaoAndroid, FoxSpy"
+com.avi.scbase,offstore,spyware,pcTattletale|pcTattletale
+com.wSpyEra,offstore,spyware,SpyEra|SpyEra
+br.com.maceda.android.antifurtow,offstore,spyware,AntiFurtoDroid|AntiFurtoDroid
+com.gizmoquip.smstracker,offstore,spyware,"CallSMSTracker|CallSMSTracker, Quizmo, Multiverze, HiddenSMSTracker"
+com.aif.tracksp,offstore,spyware,AiSpyer|AiSpyer
+com.spytoapp.system,offstore,spyware,SpyToApp|SpyToApp
+com.saloomughal.spyapp,offstore,spyware,"BlurSpy|BlurSpy, XOXOSpy"
+com.android.system.devicelogs,offstore,spyware,AppMia|AppMia
+com.tools.secretcamcorder,offstore,spyware,SecretCamRecorder|SecretCamRecorder
+ru.usafe.u_safe,offstore,spyware,Unisafe|Unisafe
+ru.usafe.usafe,offstore,spyware,Unisafe|Unisafe
+ru.usafe.kid.unisafekids,offstore,spyware,Unisafe|Unisafe
+su.unisafe.unisafe,offstore,spyware,Unisafe|Unisafe
+app.cybrook.trackvieo,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviep,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackvieq,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackvier,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackvies,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviet,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackvieu,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviev,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviex,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviey,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trackviez,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.cybrook.trustserv,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.lifecircle,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+app.trackview.pro,offstore,spyware,"TrackView|TrackView, LifeCircle"
+cn.trackview.shentan,offstore,spyware,"TrackView|TrackView, LifeCircle"
+com.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+cybrook.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackvieo,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviep,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackvieq,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackvier,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackvies,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviet,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackvieu,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviev,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviex,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviey,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trackviez,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.cybrook.trustserv,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.homesafe,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+net.trackview.pro,offstore,spyware,"TrackView|TrackView, LifeCircle"
+tv.familynk,offstore,spyware,"TrackView|TrackView, LifeCircle"
+tv.familynl,offstore,spyware,"TrackView|TrackView, LifeCircle"
+us.trackview,offstore,spyware,"TrackView|TrackView, LifeCircle"
+com.tracking_smartphone,offstore,spyware,"TrackingSmartphone|XZBO, TrackSmart, TrackingSmart"
+com.app.remote_control,offstore,spyware,"TrackingSmartphone|XZBO, TrackSmart, TrackingSmart"
+com.ts_settings,offstore,spyware,"TrackingSmartphone|XZBO, TrackSmart, TrackingSmart"
+com.phonetrackerofficial,offstore,spyware,SpyphoneMobileTracker|SpyphoneMobileTracker
+com.phonetrackerofficial1,offstore,spyware,SpyphoneMobileTracker|SpyphoneMobileTracker
+mg.locations.track5,offstore,spyware,"OneLocator|PhoneTrackerByNumber, FamilyLocator"
+,offstore,spyware,EvaSpy|Spyrix
+com.realtime.spyapp,offstore,spyware,RealtimeSpy|
+com.backup.tt,offstore,spyware,jjspy|ttspy
+apk.screenshotrecorder,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+apk.keylogger,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+apk.kgl,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+apk.kwoapsnde,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.clipboardmanager,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.facecapture,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.gpstracker,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.keylogger,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.keylogger2,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.klogger,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.screenrecorder,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+com.as.urllogger,offstore,spyware,"AndroidSpy|AndroSpy, ASpy"
+afs.hbmoczc,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+bv.vemzye,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+com.amon,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+com.monitorchecker,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+fod.loqpf,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+ifk.ghumlh,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+mhu.bylbcwc,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+oo.ptkqyawh,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+sy.slvzccd,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+vmf.uxytqgrl,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+vn.ehkfqgvn,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+yr.tubjypbl,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+com.dromon,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+kenkbltcf.pwpwkvdwmjk,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+iiw.orqjtwbkx,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+efexmsz.mzuooelftl,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+fka.ugsonrqogw,offstore,spyware,"AndroidPolice|MonitorChecker, AndrMonitor, AndroidMon, Dromon"
+com.mango.findmyphone,offstore,spyware,FindMyPhone|InMobi
+com.mango.findmyphone2,offstore,spyware,FindMyPhone|InMobi
+com.mango.findmyphone3,offstore,spyware,FindMyPhone|InMobi
+com.bulgakov.controlphone,offstore,spyware,Bulgok|ControlPhone
+com.bulgakov.bug,offstore,spyware,Bulgok|ControlPhone
+com.bul.b,offstore,spyware,Bulgok|ControlPhone
+com.android.fystem.maps,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.android.system.maps,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.google.android.bacfup,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.google.android.safe,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.wzogle.zndroid.yacfup,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.qzogle.xndroid.jacfup,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.qzogle.xndroid.jacfut,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.qzogle.android.jacfut,offstore,spyware,"Tracku|Kurulum, Bakuf, Clues, IZSpy, IzKid, ESpy"
+com.protect,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.aixlunro.uqfhkagb,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.bzbqbkya.hgozttiu,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.gzomoyig.qwgawtaz,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.android.inputmethod.latinmy,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.ntckdlhc.oifhnjwp,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.selgdg.febgdsra,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.selgdg.mardsdaf,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.sepfsp.jasend,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.bnahrrbc.kwexsnhl,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.tbntxear.vfmkjxme,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.fbhpdsej.gnuebduy,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.uxgbipup.pdtvcgzc,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.uzoifhzk.qmqnpwaf,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.zkftwsel.fqnoquuv,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.mnwkvijy.wzyxgrft,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+net.kidlogger.kidlogger,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+net.teslineservice.kidl5,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+net.someapp1.somecorp2,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.fhekpqbq.otlzonjx,offstore,spyware,"KidsShield|TiSpy, KidLogger, MonitorMinor, SelfSpy, SpyTrac, TelcadoAndroid, TiFamily, TracerSpy, Triada, VipTelefonProgrami"
+com.ajygpxjy.bnthtjou,offstore,spyware,SpyKontrol|
+com.udxlbuno.plwnnhop,offstore,spyware,SpyKontrol|
+com.igyluazm.iytdhsky,offstore,spyware,SpyKontrol|
+com.callhist.calltr,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.catrsy.jaluc,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.cellph.montrb,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.dbzbpr.skt,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.elpatr.woac,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.ernell.thht,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.gh.ob,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.greatdata,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.kidsmobmon,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.mobitra.todv,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.mobphn.monit,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.mobtr.danbel,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.mophtr.td,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.phone.tracker.smsb,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.phtranlo.tifach,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.rephko.stha,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.s2m,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.s2m.seas,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.sap4mobile,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.smart,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.smartback,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.smstra.xanris,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.spy2mobile,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.spy2mobile.light,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.stmrsa.htxt,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.tccplos.spth,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.tevi.walpi,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.tracker.sms.mobile,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.trackzone.kids,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.trandmon.tool,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.trphwhat.prob,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.viewcalls.rem,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.viewsms.remb,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.whtrack.monit,offstore,spyware,"Trackplus|Gpspy, S2mob, Spy2Mobile, SpyToMobile, Spymob, sap4mobile, spy2mobile"
+com.at.wwka,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.ati.client,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.ati.monitor,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.ati.webwatcherconsole,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.atinc.slcompanion,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.atiw.wc,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.awarenesstech.monitor,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.awarenesstech.wwpapp,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.awarenesstechnologies.sideloadedws,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.awti.slc,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.screentime,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.ww.companion,offstore,spyware,"WebWatcher|Atic, Interguard, Screentime, atispy"
+com.cryzp.leplluln,offstore,spyware,"MyCellSpy|CellSpy, MCSpy"
+com.pser.sysutils,offstore,spyware,"MyCellSpy|CellSpy, MCSpy"
+com.sev.android.systemdev,offstore,spyware,"MyCellSpy|CellSpy, MCSpy"
+com.chaoqi.spyapp,offstore,spyware,Spylix|
+com.sec.provider.mobile.android,offstore,spyware,MonitorUltra|
+com.thewispy,offstore,spyware,TheWiSpy|
+YWZiZDFjZTg2NTZlOGI4NDkyYWJjZDJjZDE5ZTM0Mjk.MzkwMmNhZGFiZGZhMjMyZjQzNTJkYmQ1ODg1ZjI1NzA,offstore,spyware,Observer|
+com.system.settings,offstore,spyware,Observer|
+com.mobileservices2.synchronization,offstore,spyware,Mrecorder|mobrec
+com.mrecorder.callrecorder,offstore,spyware,Mrecorder|mobrec
+com.mobileservice.sync,offstore,spyware,Mrecorder|mobrec
+com.connection.manager,offstore,spyware,Mrecorder|mobrec
+com.popo.analyse,offstore,spyware,PhoneSpy|
+com.wlset.info,offstore,spyware,PhoneSpy|
+com.shadyspy.monitor,offstore,spyware,ShadySpy|
+com.ass.antitheft,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ass.remotesecurity,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ass.ladieschildprotection,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ots.ladieschildprotection,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ots.remotesecurity,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ots.antitheft,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.softalogy.thiefguard,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.ots.womenchildsafety,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.gss.whereismyphone,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.smart.guardoffline,offstore,spyware,AbsoluTrack|RemoteSecurity
+com.AwamiSolution.smartkeylogger,offstore,spyware,SmartKeylogger|Hiddad
+org.traccar.client,offstore,spyware,Traccar|Traca
+org.traccar.client.hidden,offstore,spyware,Traccar|Traca
+dell.scream.application,offstore,spyware,"SpyNote|Scream, Screamon"
+com.spynote.software.stubspynote,offstore,spyware,"SpyNote|Scream, Screamon"
+tej.flashkeylogger,offstore,spyware,FlashKeylogger|FlashKeylog
+tej.flashkeyloggerpro,offstore,spyware,FlashKeylogger|FlashKeylog
+tej.flashkeylogges,offstore,spyware,FlashKeylogger|FlashKeylog
+stealthLight.sys,offstore,spyware,"MobiStealth|MobiStealth, Stealthcell"
+phone.Secure,offstore,spyware,"MobiStealth|MobiStealth, Stealthcell"
+and.LocatorTrial,offstore,spyware,"MobiStealth|MobiStealth, Stealthcell"
+and.GuardTrial,offstore,spyware,"MobiStealth|MobiStealth, Stealthcell"
+lookOut.Secure,offstore,spyware,"MobiStealth|MobiStealth, Stealthcell"
+one.enix.smsforward,offstore,spyware,SMSForward|SMForw
+net.droid.talk218,offstore,spyware,Ahmyth|
+com.xhunter.client,offstore,spyware,xHunter|
+com.android.preference.help.mole,offstore,spyware,BosSpy|
+com.mobilespy.io,offstore,spyware,Fenced|MobileSpyIo
+com.fenced.ai,offstore,spyware,Fenced|MobileSpyIo
+br.com.rastreadordenamorado,offstore,spyware,RastreadorDeNamorado|
+com.android.wifi.tracker,offstore,spyware,Trackji|
+xd.spy.app,offstore,spyware,XDSpy|
+com.remote.app,offstore,spyware,XploitSPY|
+com.devspark.securityotp,offstore,spyware,SpySMS|
+com.droidwatcher,offstore,spyware,DroidWatcher|
+com.rana_aditya.child,offstore,spyware,Spyzier|
+me.hawkshaw,offstore,spyware,AndroidSpyApp|
+net.majorkernelpanic.spydroid,offstore,spyware,SpyDroid|
+com.example.ghazi.sms,offstore,spyware,SpyAppGhazi|
+com.hyadesinc.curiosus,offstore,spyware,Curiosus|
+com.example.lovespy.app,offstore,spyware,LoveSpy|
+edu.virginia.cs.cs4720.ispy,offstore,spyware,ISpy|
+in.spyapp.patanjali.android,offstore,spyware,PatanSpyApp|
+com.github.muneebwanee.dash,offstore,spyware,Dash|
+com.femimesusu.libapasopi,offstore,spyware,SpyApp|
+com.my.spy.app,offstore,spyware,MySpyApps|
+com.android.system.app,offstore,spyware,"OneSpy|OneMonitar, OneSpy, ChyldMonitor"
+com.android.settings.app,offstore,spyware,"OneSpy|OneMonitar, OneSpy, ChyldMonitor"
+seC.fqjx.sqBB,offstore,spyware,"OneSpy|OneMonitar, OneSpy, ChyldMonitor"
+com.qwertyuiop.asdfghjkl,offstore,spyware,"OneSpy|OneMonitar, OneSpy, ChyldMonitor"
+com.alienmanfc6.wheresmyandroid,offstore,spyware,WheresMyDroid|
+com.wisemo.wsmguest.v18,offstore,spyware,WiseMo|
+com.wisemo.host.v10,offstore,spyware,WiseMo|
+org.findmykids.app,offstore,spyware,FindMyKids|
+org.findmykids.child,offstore,spyware,FindMyKids|
+com.moxlndmp.uhzhgzjh,offstore,spyware,BrunoEspiao|
+com.fzvsdrtb.qamlhxri,offstore,spyware,BrunoEspiao|
+com.thaxygpc.xjsjobpn,offstore,spyware,BrunoEspiao|
+com.nhevvtmt.thinkquo,offstore,spyware,BrunoEspiao|
+com.jgeuhcex.ejcxndak,offstore,spyware,Spyone|
+com.eytewqrm.wvdkgmrl,offstore,spyware,Spyone|
+com.epbzrqcg.syzzkuqx,offstore,spyware,Spyone|
+com.laucass.phonecontrolenabler,offstore,spyware,Spyone|
+com.laucass.phonecontroltarget,offstore,spyware,Spyone|
+com.laucass.androsmscontrol,offstore,spyware,Spyone|
+com.juzyuwqt.thxxnjvf,offstore,spyware,Spyone|
+com.epasufob.kybavfgt,offstore,spyware,Spyone|
+pl.spyone.agent2,offstore,spyware,Spyone|
+Aktualizacja.apps,offstore,spyware,Spyone|
+br.com.eaglespy,offstore,spyware,eagleSPY|
+com.pvojpamt.tzzyqjyb,offstore,spyware,PhoneMonitor|
+com.monitor.phone.s0ft.phonemonitor,offstore,spyware,PhoneMonitor|
+com.google.android.network,offstore,spyware,Buhsam|
+com.example.reverseshell2,offstore,spyware,AndroRat|
 com.appscottage.automaticcallrecorderprohd,playstore,dual-use,Automatic Call Recorder - Record Any Phone Call
 com.recorder.automaticcallrecorder,playstore,dual-use,Record Phone Call Automatic Conversation Recorder
 com.betaapp.myfamilylocator,playstore,dual-use,GPS Live Tracker
@@ -3818,23 +4422,10 @@ com.mapsphere.pfmc,appstore,dual-use,pFMC Tracker
 com.trecone.cctbmx,appstore,dual-use,Plan Manager - Data & Call Plan helps you to track and control your internet & traffic consumption to fit on your monthly plan
 com.skjm.icampro,appstore,dual-use,iCam Pro - Webcam Streaming
 com.android.system,offstore,spyware,System Service
-com.wifiset.service,offstore,spyware,Wi-Fi Settings
-com.spy2mobile.light,offstore,spyware,Data Backup
-com.android.core.monitor.debug,offstore,spyware,Sync Service
-com.mxspy,offstore,spyware,System Service
-com.spappm_mondow.alarm,offstore,spyware,Backup
-com.spytoapp.system,offstore,spyware,SystemTask!
-com.guest,offstore,spyware,System Service
-com.topspy.system,offstore,spyware,System Services
 com.android.preference.voice,offstore,spyware,UPreferences
-com.safesecureservice,offstore,spyware,Secure Service
 com.gpssettings.src.v65,offstore,spyware,Mobile Spy
-com.ispyoo,offstore,spyware,System Service
 sys.framework,offstore,spyware,Update service
-com.android.system.devicelogs,offstore,spyware,com.android.devicelogs
 com.sec.android.internet.service.ik,offstore,spyware,Internet Service
-com.hellospy.system,offstore,spyware,System Services
-com.ws.sc,offstore,spyware,System Update Service
 app.goinhome,playstore,dual-use,GoinHome - Find my Friends & Family on the map
 com.appybuilder.abdulsajid6491.SpoofSMSSenderFake,playstore,dual-use,Spoof SMS Sender fake
 com.jb.receivesms,playstore,dual-use,Receive SMS online
@@ -4940,7 +5531,6 @@ com.semantic.childcontrol,playstore,spyware,SpyMasterPro
 com.hp.vd,playstore,spyware,FreeAndroidSpy
 com.hp.vc,playstore,spyware,FreeAndroidSpy
 com.googleplay.settings,playstore,spyware,NetSpy
-com.sc.spyier.v2,playstore,spyware,Spyier
 com.bytepioneers.coupletracker,playstore,spyware,CouplerTracker
 com.mobile.asgard,playstore,spyware,GPSTrackerLoki
 com.spyapp247.system,playstore,spyware,SpyApp247
@@ -4951,7 +5541,6 @@ com.xno.systemservice,playstore,spyware,Xnore
 com.kfhdha.fkjfgjdi,playstore,spyware,"EspiaoAndroid,FoxSpy"
 com.avi.scbase,playstore,spyware,pcTattletale
 com.wSpyEra,playstore,spyware,SpyEra
-com.gcm_call_sms_tracker.updated,playstore,spyware,"CallSMSTracker,Quizmo,Multiverze,HiddenSMSTracker"
 com.aif.tracksp,playstore,spyware,AiSpyer
 com.saloomughal.spyapp,playstore,spyware,"BlurSpy,XOXOSpy"
 com.wisemo.host.v10,playstore,spyware,WiseMo
@@ -5157,7 +5746,6 @@ com.contentwatch.ghoti.cp2.child,playstore,spyware,
 com.timeon.litclient,playstore,spyware,
 com.android.core.mntah,playstore,spyware,"Hoverwatch,SpyBubble,Refog"
 com.surebrec,playstore,spyware,Cerberus
-com.ssurebrec,playstore,spyware,Cerberus
 com.tutorial.instalao,playstore,spyware,MeuSpy
 com.aisistem.instalao,playstore,spyware,MeuSpy
 br.com.appfornecedor.legal,playstore,spyware,MeuSpy
@@ -5175,9 +5763,6 @@ com.eytewqrm.wvdkgmrl,playstore,spyware,
 com.epbzrqcg.syzzkuqx,playstore,spyware,
 com.laucass.phonecontrolenabler,playstore,spyware,
 com.laucass.phonecontroltarget,playstore,spyware,
-com.mtf.download,playstore,spyware,MobileTrackerFree / MonitorLoverman / MTrack / CellTracker / TrackMobil
-iiw.orqjtwbkx,playstore,spyware,MonitorChecker / AndrMonitor / AndroidMon / Dromon
-efexmsz.mzuooelftl,playstore,spyware,MonitorChecker / AndrMonitor / AndroidMon / Dromon
 com.hecyazilim.locationmanager,playstore,dual-use,Location Tracking App
 phonetracker.location.geotracker.gps.gpstracker.phonelocator,playstore,dual-use,Phone Tracker and GPS Locatior
 com.number.locator.callerlocation,playstore,dual-use,Phone Number Locator
