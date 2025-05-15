@@ -5,12 +5,13 @@ BASE_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 PKG_DIR="${BASE_DIR}/../dumps/pkgs"
 mkdir -p "${PKG_DIR}"
 serial_cmd="$1"
-adb_cmd="${adb} ${serial_cmd}"
+adb_cmd="adb ${serial_cmd}"
 echo "ADB command: ${adb_cmd}"
 function pkg_version {
     _pkg="$1"
     # echo "$adb $serial shell dumpsys package $pkg | grep versionName | cut -d '=' -f 2"
-    echo $(${adb_cmd} shell dumpsys package "${_pkg}" | grep versionName | cut -d '=' -f 2 | tr -d '\r')
+    version_output=$(${adb_cmd} shell dumpsys package "${_pkg}" || true)
+    echo "${version_output}" | grep versionName | cut -d '=' -f 2 | tr -d '\r'
 }
 
 hashing_exe=$(${adb_cmd} shell "command -v md5 || command -v md5sum || command -v sha1sum" | tr -d '\r')
@@ -30,7 +31,7 @@ whitelist_patterns=(
 check_apk() {
     local apk="$1"
     for pattern in "${whitelist_patterns[@]}"; do
-        if [[ "$apk" =~ $pattern ]]; then
+        if [[ "${apk}" =~ ${pattern} ]]; then
             return 0  # matched
         fi
     done
@@ -39,8 +40,8 @@ check_apk() {
 
 function pull {
     echo "Clearing the folder"
-    ${adb_cmd} pull "/sdcard/apps/" $PKG_DIR
-    mv "$PKG_DIR"/apps/* "$PKG_DIR"
+    ${adb_cmd} pull "/sdcard/apps/" ${PKG_DIR}
+    mv "${PKG_DIR}"/apps/* "${PKG_DIR}"
     ${adb_cmd} shell "rm -rf /sdcard/apps/"
     ${adb_cmd} shell "mkdir -p /sdcard/apps/"
 }
@@ -49,7 +50,7 @@ t=0
 for i in $(${adb_cmd} shell pm list packages -3 -f | tr -d '\r');
 do
     echo "------------------"
-    read -ra a <<< "$(echo $i | sed -n 's/^package:\(.*\.apk\)=\(.*\)/\1 \2/p') | tr -d '\r')"
+    read -ra a <<< "$(echo "${i}" | sed -n 's/^package:\(.*\.apk\)=\(.*\)/\1 \2/p') | tr -d '\r')"
     pkg_path=${a[0]}
     pkg=${a[1]}
     echo "[INFO] pkg_path = ${pkg_path} apk_name = ${pkg}"
