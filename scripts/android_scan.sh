@@ -30,7 +30,7 @@ fi
 
 function scan {
     act=$1
-    ${adb} "${serial}" shell dumpsys "${act}" | \
+    ${adb} ${serial} shell dumpsys "${act}" | \
     sed -e 's/\(\s*\)[a-zA-Z0-9._%+-]\+@[a-zA-Z0-9.-]\+\.[a-zA-Z]\{2,4\}\b/\1<email>/g;s/\(\s*\)[a-zA-Z0-9._%+-]\+_gmail.com/\1<db_email>/g'
 }
 
@@ -38,7 +38,7 @@ function scan {
 # The lines containing word spy in the phone! A heuristic to find
 # Offstore spyware
 function scan_spy {
-    if [[ ! -e ${ofname} ]]; then
+    if [[ ! -e "${ofname}" ]]; then
         echo "Run scan first"
         return 1
     fi
@@ -48,27 +48,27 @@ function scan_spy {
 
 function retrieve {
     # Make a python parser for this might be much faster
-    if [[ ! -e ${ofname} ]]; then
+    if [[ ! -e "${ofname}" ]]; then
         echo "Run scan first"
         return 1
     fi
     app="$1"
-    process_uid=$(grep -A1 "Package \[$app\]" $ofname | sed '1d;s/.*userId=\([0-9]\+\).*/\1/g')
-    process_uidu=$(grep -Eo "app=ProcessRecord{[a-f0-9]+ [0-9]+:$app/([a-z0-9]*)" "$ofname" | cut -d '/' -f 2 | sort -u)
+    process_uid=$(grep -A1 "Package \[$app\]" "${ofname}" | sed '1d;s/.*userId=\([0-9]\+\).*/\1/g')
+    process_uidu=$(grep -Eo "app=ProcessRecord{[a-f0-9]+ [0-9]+:$app/([a-z0-9]*)" "${ofname}" | cut -d '/' -f 2 | sort -u)
     
     echo "${process_uid}  ${process_uidu}"
     # Install date
-    printf 'Install: %s\n' "$(awk "/Package \[$app\]/{flag=1;next}/install permissions:/{flag=0}flag" "$ofname" | grep Time | tr -d '  ')"
+    printf 'Install: %s\n' "$(awk "/Package \[$app\]/{flag=1;next}/install permissions:/{flag=0}flag" "${ofname}" | grep Time | tr -d '  ')"
 
     # Memory info 
-    printf 'Memory: %s\n' "$(awk '/Total PSS by process/{flag=1;next}/Total PSS/{flag=0}flag' "$ofname" | grep $app | sed '/^\s*$/d')"
+    printf 'Memory: %s\n' "$(awk '/Total PSS by process/{flag=1;next}/Total PSS/{flag=0}flag' "${ofname}" | grep "$app" | sed '/^\s*$/d')"
 
     # Network info - cnt_set=0 => background,rx_bytes
-    printf 'DataUsage (%s): %s\n' "${process_uid}" "$(awk "/DUMP OF SERVICE net_stats/{flag=1;next}/DUMP OF SERVICE/{flag=0}flag" "$ofname" | sed 's/ /,/g' | csvgrep -c 4 -m ${process_uid} | csvcut -c 4,5,6,8)"
-    # awk "/DUMP OF SERVICE net_stats/{flag=1;next}/DUMP OF SERVICE/{flag=0}flag" $ofname | sed 's/ /,/g' | grep -a "${process_uid}"
+    printf 'DataUsage (%s): %s\n' "${process_uid}" "$(awk "/DUMP OF SERVICE net_stats/{flag=1;next}/DUMP OF SERVICE/{flag=0}flag" "${ofname}" | sed 's/ /,/g' | csvgrep -c 4 -m "${process_uid}" | csvcut -c 4,5,6,8)"
+    # awk "/DUMP OF SERVICE net_stats/{flag=1;next}/DUMP OF SERVICE/{flag=0}flag" "${ofname}" | sed 's/ /,/g' | grep -a "${process_uid}"
 
     # Battery info
-    printf "Battery (%s): %s\n" "${process_uidu}" "$(awk '/Estimated power use/{flag=1;next}/^\s*$/{flag=0}flag' "$ofname" | grep "Uid ${process_uidu}")"
+    printf "Battery (%s): %s\n" "${process_uidu}" "$(awk '/Estimated power use/{flag=1;next}/^\s*$/{flag=0}flag' "${ofname}" | grep "Uid ${process_uidu}")"
     # Device Admin
 }
 
@@ -94,11 +94,11 @@ function dump {
 }
 
 function full_scan {
-    # If file older than 20 min then receate
-    if find "${ofname}" -mmin +20 -print ; then 
+    # If file is newer than 20 min, do not re-create
+    if [[ -e "${ofname}" ]] && find "${ofname}" -mmin -20 -print | grep -q . ; then 
         (>&2 echo "File is still pretty fresh. Not re-dumping")
     else
-	    dump  | sed \
+        dump  | sed \
          -e 's/^\(\s*\)lastDisabledCaller: /\1lastDisabledCaller:\1  /g;' \
          -e 's/^\(\s*\)User 0: ceDataInode\(.*\)/\1User 0:\n\1  ceDataInode\2/g' \
          -e 's/^\(\s*\)\(Excluded packages:\)/  \1\2/g' \
@@ -109,7 +109,7 @@ function full_scan {
 }
 
 info="$3"
-if [[ ! -z "${info}" ]]; then
+if [[ -n "${info}" ]]; then
     (>&2 echo "------ Running app info ------- $1 $2")
     ofname="$2"
     appId="$3"
@@ -123,6 +123,6 @@ else
     echo "Finished scanning. Pulling apks in background"
     # sleep 30;  # sleep for 0.5 minutes
     # Clear the settings to remove developer options
-    ${adb} "${serial}" shell pm clear com.android.settings
+    ${adb} ${serial} shell pm clear com.android.settings
     exit 0
 fi
